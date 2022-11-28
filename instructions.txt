@@ -1,0 +1,17 @@
+OPTION 1: VSCODE
+1)Stage files that need to be committed
+2)Create message
+3)Commit said files
+
+OPTION 2: GHDesktop
+1)Check mark the files you want to commit (like staging in VSCode)
+2)Add message (note how github desktop automatically adds a title)
+3)Commit to branch
+
+
+Want to delete a staged commit? 
+
+discarding all changes:
+1) changes > discard all
+or
+2) in terminal, 'git reset --hard'
